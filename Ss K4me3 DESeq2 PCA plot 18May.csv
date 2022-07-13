@@ -1,0 +1,19 @@
+Stage_code,PC1,PC2,Rep,Stage
+Ss1,-28.89,-16.98,R1,Late blastula
+Ss1,-22.81,-16.16,R2,Late blastula
+Ss1,-17.41,-14.1,R3,Late blastula
+Ss2,-29.12,-10.58,R1,Mid gastrula
+Ss2,-18.65,-10.78,R2,Mid gastrula
+Ss2,-23.6,-9.11,R3,Mid gastrula
+Ss3,-1.11,11.23,R1,Early somitogenesis
+Ss3,3.59,6.35,R2,Early somitogenesis
+Ss3,-5.19,9.22,R3,Early somitogenesis
+Ss4,3.93,11.95,R1,Mid somitogenesis
+Ss4,0.32,12.21,R2,Mid somitogenesis
+Ss4,0.24,14.23,R3,Mid somitogenesis
+Ss5,2.7,11.13,R1,Late somitogenesis
+Ss5,2.35,13.63,R2,Late somitogenesis
+Ss5,-1.81,10.36,R3,Late somitogenesis
+Ss6,44.97,-14.55,R1,Late-eyed
+Ss6,44.48,-12.88,R2,Late-eyed
+Ss6,46.54,-14.08,R3,Late-eyed
