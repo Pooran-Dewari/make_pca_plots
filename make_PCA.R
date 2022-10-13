@@ -2,7 +2,7 @@ library(tidyverse)
 library(ggrepel)
 library(svglite)
 
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #set source R script locatio as setwd()
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #set source R script location as setwd()
 
 
 make_PCA <- function(matrix_for_PCA) {
